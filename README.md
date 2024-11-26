@@ -19,12 +19,12 @@
 **Install X-UI-PRO**
 
 ```
-sudo su -c "bash <(wget -qO- https://github.com/mozaroc/x-ui-pro/raw/refs/heads/master/x-ui-pro.sh) -install yes -panel 1 -ONLY_CF_IP_ALLOW no"
+sudo su -c "bash <(wget -qO- https://github.com/mozaroc/x-ui-pro/raw/refs/heads/master/x-ui-pro.sh) -install yes -panel 2 -ONLY_CF_IP_ALLOW no"
 ```
 > 
 > Do not change SubDomain for renew SSL❗
 > ##
-> panel (0=alireza 1=MHSanaei 2=FranzKafkaYu)
+> panel (0=alireza 1=MHSanaei 2=FranzKafkaYu)(0 - lite, 1 - pro, 2 - fast max
 > 
 
 **Uninstall X-UI-PRO**:x:
